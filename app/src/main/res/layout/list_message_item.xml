@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:background="@drawable/tranpant_bg_selector"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="1号库房"
+        android:textColor="@color/fontcolors8"
+        android:textSize="20sp" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="6dp">
+
+        <TextView
+            android:id="@+id/tv_place"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="111楼"
+            android:textColor="@color/fontcolors4"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/img_song"
+            android:layout_width="14dp"
+            android:layout_height="10dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="6.6dp"
+            android:layout_toRightOf="@id/tv_place"
+            android:scaleType="centerInside"
+            android:src="@drawable/song_sure" />
+
+        <TextView
+            android:id="@+id/tv_message"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="6.6dp"
+            android:layout_toRightOf="@id/img_song"
+            android:gravity="center"
+            android:text="呼叫服务"
+            android:textColor="@color/fontcolors4"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_issure"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="已确认"
+            android:textColor="@color/fontcolors4"
+            android:textSize="15sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

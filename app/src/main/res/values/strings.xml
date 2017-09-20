@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CatleSystem</string>
+    <string name="version_name">版本V:</string>
+    <string name="tip">提示</string>
+    <string name="sure_call_this_serve">确定该次呼叫已经服务?</string>
+    <string name="cancle">取消操作</string>
+    <string name="sure">继续确定</string>
+    <string name="look_call_note">查看呼叫记录</string>
+    <string name="mark_served">标记为全部服务</string>
+    <string name="sure_is_delete">是否删除?</string>
+    <string name="recove_view">恢复显示</string>
+    <string name="clear_view">清除显示</string>
+</resources>

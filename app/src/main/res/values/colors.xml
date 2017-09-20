@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="danzi">#a48fd9</color>
+    <color name="tuhuang">#f9d546</color>
+    <color name="qianlv">#2ec7c9</color>
+    <color name="chengse">#fd964c</color>
+    <color name="hongse">#ff6969</color>
+    <color name="lanlv">#12bdff</color>
+    <color name="caolv">#5fdd9e</color>
+    <color name="shenlan">#2e96c9</color>
+    <color name="qianlan">#93dc58</color>
+    <color name="huyanlv">#ace4e5</color>
+    <color name="elead_1eafad">#1eafad</color>
+    <color name="title_bg">#29acae</color>
+    <color name="huilan">#262c40</color>
+
+    <color name="bg_grey">#f5f5f5</color>
+    <color name="bg_color">#20000000</color>
+
+    <color name="page_indicator_default_color">#545454</color>
+
+    <color name="stable_little_color">#78909c</color>
+    <color name="data_time_color">#4f697a</color>
+    <color name="develop_tb_line">#2ec7c9</color>
+    <color name="text_develop_tb_def">#7c7e85</color>
+
+    <!--  fontcolors  -->
+    <color name="fontcolors1">#001c58</color>
+    <color name="fontcolors2">#515974</color>
+    <color name="fontcolors3">#7e8e9f</color>
+    <color name="fontcolors4">#999999</color>
+    <color name="fontcolors5">#cccccc</color>
+    <color name="fontcolors6">#03004c</color>
+    <color name="fontcolors8">#333333</color>
+    <color name="fontcolors7">#666666</color>
+    <color name="fontcolors9">#a9a9a9</color>
+    <color name="fontcolors10">#197e7f</color>
+    <color name="fontcolors11">#707e8f</color>
+    <color name="fontcolors12">#fe472b</color>
+
+    <!--opera-->
+    <color name="opera_title_bg">#29324c</color>
+    <color name="small_line_bg">#dedede</color>
+    <color name="big_line_bg">#ebebeb</color>
+
+
+    <!--rdc-->
+    <color name="rdc_base_bg_color">#202020</color>
+    <color name="rdc_line_color">#161616</color>
+    <color name="color_464848">#464848</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="transport">#00000000</color>
+
+    <color name="up_card_2dbcdf">#2dbcdf</color>
+    <color name="up_card_ec8181">#ec8181</color>
+    <color name="up_card_5dd0aa">#5dd0aa</color>
+    <color name="up_card_212121">#212121</color>
+
+    <color name="im_bottom_line">#919191</color>
+    <color name="im_chatlist_bg">#e6e6e6</color>
+    <color name="im_bottom_send_bg">#19ad17</color>
+    <color name="im_bottom_etline_bg">#a8a8a8</color>
+
+    <color name="elead_f25e5e">#f25e5e</color>
+    <color name="elead_262c40">#262c40</color>
+    <color name="elead_2c3654">#2c3654</color>
+    <color name="wheelview_out">#bcbcbc</color>
+
+    <color name="md_level_btn_yellow">#f9ce23</color>
+    <color name="md_line_blue">#3a6aa0</color>
+    <color name="md_line_purple">#a48fd9</color>
+    <color name="md_menu_btn_blue">#d5f4f4</color>
+    <color name="md_menu_reset">#cdecec</color>
+
+    <color name="black">#000000</color>
+
+    <color name="alertdialog_line">#c6c6c6</color>
+
+    <color name="actionsheet_blue">#037BFF</color>
+
+    <color name="actionsheet_gray">#8F8F8F</color>
+
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pickerview_wheelview_textcolor_center">#2a2a2a</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#60000000</color>
+
+    <!-- 首页红色 -->
+    <color name="index_red">#dd434d</color>
+    <!-- 首页红色按下 -->
+    <color name="index_red_press">#ab6569</color>
+    <color name="tv_sure">#fe704c</color>
+    <color name="tv_unsure">#343434</color>
+    <color name="fontcolors13">#fe704a</color>
+    <color name="fontcolors14">#ef608c</color>
+</resources>
